@@ -38,7 +38,7 @@ coverage==7.6.1
     # via -r requirements.in
 datetime==5.5
     # via -r requirements.in
-django==4.2.20
+django==4.2.22
     # via
     #   -r requirements.in
     #   django-classy-tags
@@ -71,7 +71,7 @@ docutils==0.20.1
     #   sphinx
 furo==2024.8.6
     # via -r requirements.in
-h11==0.14.0
+h11==0.16.0
     # via uvicorn
 idna==3.10
     # via
