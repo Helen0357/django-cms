@@ -52,7 +52,7 @@
   },
   "dependencies": {
     "babel-runtime": "^6.23.0",
-    "diff-dom": "^5.1.4",
+    "diff-dom": "^5.2.0",
     "fuzzaldrin": "^2.1.0",
     "keyboardjs": "^2.7.0",
     "local-storage": "1.4.2",
