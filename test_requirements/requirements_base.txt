@@ -18,3 +18,4 @@ python-coveralls>2.5.0
 unittest-xml-reporting
 ruff
 setuptools  # Since python 3.12
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
